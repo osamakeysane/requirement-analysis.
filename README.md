@@ -66,8 +66,3 @@ Finally, the requirements are checked to ensure they are correct and meet user e
 Stakeholders review the documented requirements for approval.
 
 Example: The client reviews the SRS and confirms that all necessary features are included.
-
-
-
-**3.Ensures Quality and Customer Satisfaction**
-By understanding user needs early, the development team can deliver software that meets or exceeds expectations.
