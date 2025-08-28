@@ -20,8 +20,54 @@ Requirement Analysis is a critical phase in the SDLC because it lays the groundw
 **1.Prevents Scope Creep**
 Clear requirements help avoid unnecessary changes or additions during development, saving time and costs.
 
-**2.Improves Communication**
-It ensures all stakeholders have a shared understanding of what the software should achieve, reducing misinterpretations.
+**Key Activities in Requirement Analysis**
+Requirement Analysis involves several important activities that help ensure the software product meets user needs. These are:
+
+1. Requirement Gathering
+
+This is the first step where information is collected from stakeholders, customers, or users.
+
+The goal is to understand what the user expects from the system.
+
+Methods include interviews, surveys, questionnaires, and observation.
+
+Example: Asking a client what features they want in an online shopping app.
+
+2. Requirement Elicitation
+
+This step goes deeper into clarifying and refining the requirements gathered.
+
+It involves discussions, workshops, and brainstorming to uncover hidden needs.
+
+Example: During a workshop, discovering that users want an easy checkout process, not just product listings.
+
+3. Requirement Documentation
+
+Here, all the gathered and refined requirements are written down clearly.
+
+Documentation includes Software Requirement Specification (SRS) documents.
+
+This ensures everyone (developers, testers, stakeholders) is on the same page.
+
+Example: Writing in the SRS: “The system shall allow users to reset their password via email.”
+
+4. Requirement Analysis and Modeling
+
+In this step, the requirements are analyzed for completeness, feasibility, and consistency.
+
+Models like flowcharts, use case diagrams, and data models are created to visualize the system.
+
+Example: Creating a use case diagram showing how a user interacts with the shopping cart.
+
+5. Requirement Validation
+
+Finally, the requirements are checked to ensure they are correct and meet user expectations.
+
+Stakeholders review the documented requirements for approval.
+
+Example: The client reviews the SRS and confirms that all necessary features are included.
+
+
 
 **3.Ensures Quality and Customer Satisfaction**
 By understanding user needs early, the development team can deliver software that meets or exceeds expectations.
