@@ -14,3 +14,14 @@ Reduces Errors: Early detection of incorrect, incomplete, or ambiguous requireme
 Guides Development: Provides a clear roadmap for design, coding, and testing phases.
 
 Improves Customer Satisfaction: Meeting the actual needs of users leads to higher satisfaction and successful project delivery.
+
+**Why is Requirement Analysis Important?**
+Requirement Analysis is a critical phase in the SDLC because it lays the groundwork for the entire project. Here are three main reasons why it is essential:
+**1.Prevents Scope Creep**
+Clear requirements help avoid unnecessary changes or additions during development, saving time and costs.
+
+**2.Improves Communication**
+It ensures all stakeholders have a shared understanding of what the software should achieve, reducing misinterpretations.
+
+**3.Ensures Quality and Customer Satisfaction**
+By understanding user needs early, the development team can deliver software that meets or exceeds expectations.
