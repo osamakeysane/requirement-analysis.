@@ -109,6 +109,25 @@ Use Case Diagrams are visual representations that show how users (actors) intera
 - Make Payment
 - Add Property (Admin)
 - Remove  Property (Admin)
+## Acceptance Criteria
 
+Acceptance Criteria (AC) define the specific conditions that a software feature must meet to be considered complete and acceptable by stakeholders. They are essential in Requirement Analysis because they:
+
+- Ensure clarity: Clearly state what the feature should do and under what conditions it works.
+- Facilitate testing: Provide a measurable standard for testers to verify the feature.
+- Prevent misunderstandings: Align stakeholders, developers, and testers on expectations.
+- Help prioritize: Allow teams to focus on what is most important for the user.
+
+### Example: Checkout Feature in the Booking Management System
+
+For a **Checkout** feature, the acceptance criteria could be:
+
+1. **User Login:** Only registered users can access the checkout page.
+2. **Cart Validation:** The system displays all selected bookings with correct details (property name, dates, and total price).
+3. **Payment Processing:** Payment can be completed using credit card, debit card, or PayPal.
+4. **Confirmation:** After successful payment, a confirmation message and receipt are displayed and emailed to the user.
+5. **Error Handling:** Invalid payment details or failed transactions show clear error messages.
+6. **Security:** All payment transactions are encrypted to protect user data.
+7. **Performance:** Checkout process completes within 5 seconds for a standard booking.
 
 
