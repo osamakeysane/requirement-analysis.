@@ -96,7 +96,8 @@ Use Case Diagrams are visual representations that show how users (actors) intera
 - Facilitate communication between stakeholders and developers.
 - Serve as a basis for creating test cases.
 
-- ![Booking System Use Case](alx-booking-uc.png)
+- ![Booking System Use Case](alx-booking-uc.png.png)
+
 **Actors:**
 - User
 - Admin
