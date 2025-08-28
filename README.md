@@ -66,3 +66,27 @@ Finally, the requirements are checked to ensure they are correct and meet user e
 Stakeholders review the documented requirements for approval.
 
 Example: The client reviews the SRS and confirms that all necessary features are included.
+
+## Types of Requirements
+
+Requirements are generally classified into two types: **Functional** and **Non-functional**.
+
+### Functional Requirements
+
+- Define what the system **should do** – the features and functionalities.
+- **Examples for the Booking Management System**:
+  - Users can register and log in to the system.
+  - Users can search for available properties by date and location.
+  - Users can book a property and make payments online.
+  - Admin can add, edit, or remove property listings.
+
+### Non-functional Requirements
+
+- Define **how the system should perform** rather than what it does.
+- Include performance, security, usability, reliability, and scalability requirements.
+- **Examples for the Booking Management System**:
+  - The system should load property search results within 2 seconds.
+  - User data must be encrypted for security.
+  - The system should support at least 1,000 concurrent users.
+  - The application should be accessible on both desktop and mobile devices.
+
